@@ -1,0 +1,7 @@
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\TestsUnitairesDemo\bin\Debug\TestsUnitairesDemo.exe.config
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\TestsUnitairesDemo\bin\Debug\TestsUnitairesDemo.exe
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\TestsUnitairesDemo\bin\Debug\TestsUnitairesDemo.pdb
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\TestsUnitairesDemo\obj\Debug\TestsUnitairesDemo.csproj.AssemblyReference.cache
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\TestsUnitairesDemo\obj\Debug\TestsUnitairesDemo.csproj.CoreCompileInputs.cache
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\TestsUnitairesDemo\obj\Debug\TestsUnitairesDemo.exe
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\TestsUnitairesDemo\obj\Debug\TestsUnitairesDemo.pdb

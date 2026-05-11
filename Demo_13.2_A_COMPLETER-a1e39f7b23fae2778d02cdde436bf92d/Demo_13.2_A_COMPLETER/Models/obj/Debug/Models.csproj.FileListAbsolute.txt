@@ -1,0 +1,6 @@
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\Models\bin\Debug\Models.dll
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\Models\bin\Debug\Models.pdb
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\Models\obj\Debug\Models.dll
+C:\Users\6325048\Downloads\Demo_13.2_A_COMPLETER-a1e39f7b23fae2778d02cdde436bf92d\Demo_13.2_A_COMPLETER\Models\obj\Debug\Models.pdb
