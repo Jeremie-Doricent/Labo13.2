@@ -80,6 +80,9 @@ namespace Models
         public Montre()
         {
             // TODO À compléter
+            heure = 00;
+            minute = 00;
+            Secondes = 00;
         }
 
         ///===================================================================================
@@ -93,17 +96,82 @@ namespace Models
         public Montre(int pHeures, int pMinutes, int pSecondes)
         {
             // TODO À compléter
+            heure = pHeures;
+            minute = pMinutes;
+            seconde = pSecondes;
         }
 
         #endregion
 
         #region MÉTHODE
+        public int heure 
+        { get 
+            { return m_heures; }
+            set { if (value < 0 || value > 23) { throw new ArgumentOutOfRangeException(); } 
+          
+                
+            m_heures = value;
+            
+            } 
+        
+        
+        }
+
+
+        public int minute
+        {
+            get
+            { return m_minutes; }
+            set
+            {
+                if (value < 0 || value > 59) { throw new ArgumentOutOfRangeException(); }
+
+
+                m_minutes = value;
+
+            }
+
+
+        }
+        public int seconde
+        {
+            get
+            { return m_secondes; }
+            set
+            {
+                if (value < 0 || value > 59) { throw new ArgumentOutOfRangeException(); }
+
+
+                m_secondes = value;
+
+            }
+
+
+        }
         /// <summary>
         /// Augmente le temps courant d'une seconde 
         /// </summary>
         public void AvancerUneSeconde()
         {
             // TODO À compléter
+            seconde++;
+            if( seconde > 60)
+            {
+                seconde = 0;
+                minute++;
+            }
+                if( minute > 60)
+            {
+                minute = 0;
+                heure++;
+            }
+            if (heure> 23) { 
+            
+            heure = 0;
+            minute = 0;
+                seconde = 0;
+            }
+        
         }
 
         /// <summary>
@@ -113,7 +181,7 @@ namespace Models
         public string ObtenirTempsCourant()
         {
             // TODO À compléter
-            return "";
+            return$"{heure}:{minute}:{seconde}";
         }
 
         #endregion

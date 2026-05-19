@@ -13,3 +13,11 @@ C:\Users\6325048\Downloads\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Labo
 C:\Users\6325048\Downloads\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Laboratoire13_2\Laboratoire13_2\obj\Debug\Laboratoire13_2.csproj.CoreCompileInputs.cache
 C:\Users\6325048\Downloads\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Laboratoire13_2\Laboratoire13_2\obj\Debug\Laboratoire13_2.exe
 C:\Users\6325048\Downloads\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Laboratoire13_2\Laboratoire13_2\obj\Debug\Laboratoire13_2.pdb
+C:\Users\6325048\Documents\GitHub\Labo13.2\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Laboratoire13_2\Laboratoire13_2\bin\Debug\Laboratoire13_2.exe.config
+C:\Users\6325048\Documents\GitHub\Labo13.2\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Laboratoire13_2\Laboratoire13_2\bin\Debug\Laboratoire13_2.exe
+C:\Users\6325048\Documents\GitHub\Labo13.2\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Laboratoire13_2\Laboratoire13_2\bin\Debug\Laboratoire13_2.pdb
+C:\Users\6325048\Documents\GitHub\Labo13.2\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Laboratoire13_2\Laboratoire13_2\obj\Debug\Laboratoire13_2.csproj.AssemblyReference.cache
+C:\Users\6325048\Documents\GitHub\Labo13.2\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Laboratoire13_2\Laboratoire13_2\obj\Debug\Laboratoire13_2.exe.config
+C:\Users\6325048\Documents\GitHub\Labo13.2\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Laboratoire13_2\Laboratoire13_2\obj\Debug\Laboratoire13_2.csproj.CoreCompileInputs.cache
+C:\Users\6325048\Documents\GitHub\Labo13.2\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Laboratoire13_2\Laboratoire13_2\obj\Debug\Laboratoire13_2.exe
+C:\Users\6325048\Documents\GitHub\Labo13.2\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\Laboratoire13_2\Laboratoire13_2\obj\Debug\Laboratoire13_2.pdb
