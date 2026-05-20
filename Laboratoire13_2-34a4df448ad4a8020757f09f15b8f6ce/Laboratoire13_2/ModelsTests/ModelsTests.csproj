@@ -55,6 +55,7 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="ChatTests - Copier.cs" />
     <Compile Include="ChatTests.cs" />
     <Compile Include="MontreTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

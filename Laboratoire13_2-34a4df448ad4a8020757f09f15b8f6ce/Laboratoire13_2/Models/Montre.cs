@@ -18,19 +18,8 @@ namespace Models
         /// -------------------------------------------------------------------------------
         /// <summary>
         /// Obtient l'heure courante de la montre
-        /// </summary>
-        public int Heures
-        {
-            get //	accès en lecture
-            {
-                return m_heures;
-            }
-            set // accès en écriture
-            {
-                // TODO À compléter
-                m_heures = value;
-            }
-        }
+        
+        
 
         ///================================================================================
         private int m_minutes;
@@ -38,19 +27,7 @@ namespace Models
         /// <summary>
         /// Obtient les minutes courantes de la montre
         /// </summary>
-        public int Minutes
-        {
-            get  // accès en lecture
-            {
-                return m_minutes;
-            }
-            set // accès en écriture
-            {
-                // TODO À compléter
-                value = m_minutes;
-            }
-        }
-
+       
         ///================================================================================
         private int m_secondes;
         /// -------------------------------------------------------------------------------
@@ -82,7 +59,7 @@ namespace Models
             // TODO À compléter
             heure = 00;
             minute = 00;
-            Secondes = 00;
+            seconde = 00;
         }
 
         ///===================================================================================
@@ -154,22 +131,22 @@ namespace Models
         public void AvancerUneSeconde()
         {
             // TODO À compléter
-            seconde++;
-            if( seconde > 60)
+            m_secondes++;
+            if( m_secondes >= 60)
             {
-                seconde = 0;
-                minute++;
+                m_secondes = 0;
+                m_minutes++;
             }
-                if( minute > 60)
+                if( m_minutes >= 60)
             {
-                minute = 0;
-                heure++;
+                m_minutes = 0;
+                m_heures++;
             }
-            if (heure> 23) { 
-            
-            heure = 0;
-            minute = 0;
-                seconde = 0;
+            if (m_heures >= 24) {
+
+                m_heures = 0;
+            m_minutes = 0;
+                m_secondes = 0;
             }
         
         }

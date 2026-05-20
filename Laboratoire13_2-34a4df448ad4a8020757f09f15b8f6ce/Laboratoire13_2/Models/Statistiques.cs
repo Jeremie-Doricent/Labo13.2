@@ -9,8 +9,21 @@ namespace Models
 {
     public class Statistiques
     {
+        private List<int> m_nombresPairs;
+        private List<int> m_colNombres;
 
-        public List<int> ColNombres { get; private set; }
+        public List<int> ColNombres
+        {
+            get { return m_colNombres; }
+            private set
+            {
+                if (value == null || value.Count == 0)
+                { throw new ArgumentNullException(); }
+                m_nombresPairs = value;
+            }
+        }     
+                        
+        
 
         /// <summary>
         /// Obtenir les nombres pairs de la collection ColNombres 
@@ -21,7 +34,7 @@ namespace Models
             {
                 // TODO : À Compléter    
 
-                return null;
+                return m_nombresPairs;
             }
         }
         /// <summary>

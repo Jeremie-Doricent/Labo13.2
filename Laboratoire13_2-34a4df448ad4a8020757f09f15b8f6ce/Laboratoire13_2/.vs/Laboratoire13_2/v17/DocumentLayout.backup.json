@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\6325048\\Documents\\GitHub\\Labo13.2\\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\Laboratoire13_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AEA556C-5BB2-44D9-B193-714135F9A179}|Models\\Models.csproj|c:\\users\\6325048\\documents\\github\\labo13.2\\laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\laboratoire13_2\\models\\montre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AEA556C-5BB2-44D9-B193-714135F9A179}|Models\\Models.csproj|solutionrelative:models\\montre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4219CB29-A66A-4430-B8BA-9C11C3DC1EC0}|ModelsTests\\ModelsTests.csproj|c:\\users\\6325048\\documents\\github\\labo13.2\\laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\laboratoire13_2\\modelstests\\montretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4219CB29-A66A-4430-B8BA-9C11C3DC1EC0}|ModelsTests\\ModelsTests.csproj|solutionrelative:modelstests\\montretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4219CB29-A66A-4430-B8BA-9C11C3DC1EC0}|ModelsTests\\ModelsTests.csproj|c:\\users\\6325048\\documents\\github\\labo13.2\\laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\laboratoire13_2\\modelstests\\chattests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7AEA556C-5BB2-44D9-B193-714135F9A179}|Models\\Models.csproj|C:\\Users\\6325048\\Documents\\GitHub\\Labo13.2\\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\Laboratoire13_2\\models\\montre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEA556C-5BB2-44D9-B193-714135F9A179}|Models\\Models.csproj|solutionrelative:models\\montre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4219CB29-A66A-4430-B8BA-9C11C3DC1EC0}|ModelsTests\\ModelsTests.csproj|C:\\Users\\6325048\\Documents\\GitHub\\Labo13.2\\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\Laboratoire13_2\\modelstests\\chattests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4219CB29-A66A-4430-B8BA-9C11C3DC1EC0}|ModelsTests\\ModelsTests.csproj|solutionrelative:modelstests\\chattests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,30 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MontreTests.cs",
               "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Labo13.2\\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\Laboratoire13_2\\ModelsTests\\MontreTests.cs",
               "RelativeDocumentMoniker": "ModelsTests\\MontreTests.cs",
-              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Labo13.2\\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\Laboratoire13_2\\ModelsTests\\MontreTests.cs",
-              "RelativeToolTip": "ModelsTests\\MontreTests.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowCgAAAA3AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Labo13.2\\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\Laboratoire13_2\\ModelsTests\\MontreTests.cs*",
+              "RelativeToolTip": "ModelsTests\\MontreTests.cs*",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwHMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T15:46:47.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Montre.cs",
               "DocumentMoniker": "C:\\Users\\6325048\\Documents\\GitHub\\Labo13.2\\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\Laboratoire13_2\\Models\\Montre.cs",
               "RelativeDocumentMoniker": "Models\\Montre.cs",
-              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Labo13.2\\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\Laboratoire13_2\\Models\\Montre.cs*",
-              "RelativeToolTip": "Models\\Montre.cs*",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAQwFMAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Labo13.2\\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\Laboratoire13_2\\Models\\Montre.cs",
+              "RelativeToolTip": "Models\\Montre.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAwJAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T15:42:22.287Z",
               "EditorCaption": ""
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "ModelsTests\\ChatTests.cs",
               "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Labo13.2\\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\Laboratoire13_2\\ModelsTests\\ChatTests.cs",
               "RelativeToolTip": "ModelsTests\\ChatTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwBIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T17:27:30.579Z",
               "EditorCaption": ""
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "Models\\Chat.cs",
               "ToolTip": "C:\\Users\\6325048\\Documents\\GitHub\\Labo13.2\\Laboratoire13_2-34a4df448ad4a8020757f09f15b8f6ce\\Laboratoire13_2\\Models\\Chat.cs",
               "RelativeToolTip": "Models\\Chat.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowEYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T23:34:51.425Z",
               "EditorCaption": ""
