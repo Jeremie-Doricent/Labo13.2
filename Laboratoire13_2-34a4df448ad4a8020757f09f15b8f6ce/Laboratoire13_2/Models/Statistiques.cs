@@ -9,7 +9,7 @@ namespace Models
 {
     public class Statistiques
     {
-        private List<int> m_nombresPairs;
+       
         private List<int> m_colNombres;
 
         public List<int> ColNombres
@@ -17,9 +17,9 @@ namespace Models
             get { return m_colNombres; }
             private set
             {
-                if (value == null || value.Count == 0)
+                if (value == null )
                 { throw new ArgumentNullException(); }
-                m_nombresPairs = value;
+                m_colNombres = value;
             }
         }     
                         
@@ -32,9 +32,17 @@ namespace Models
         {                   
             get
             {
-                // TODO : À Compléter    
+                List<int> pairs = new List<int>();
+                foreach (int nombre in ColNombres)
+                {
+                    if (nombre % 2 == 0)
+                    {
+                        pairs.Add(nombre);
+                    }
+                }
 
-                return m_nombresPairs;
+                return pairs;
+               
             }
         }
         /// <summary>
@@ -44,8 +52,13 @@ namespace Models
         {           
             get
             {
+                int vs = 0;
+                foreach( int pair in ColNombres)
+                {
+                    vs += pair;
+                }
                 // TODO À compléter
-                return 0;
+                return vs;
 
             }
             
@@ -59,7 +72,14 @@ namespace Models
             get
             {
                 // TODO À compléter
-                return 0;
+           
+                double total = 0;
+                foreach( double pair in ColNombres)
+                {
+                   total += pair ;
+                }
+                
+                return total / ColNombres.Count ;
 
             }
         }
@@ -69,6 +89,8 @@ namespace Models
         public Statistiques()
         {
             // TODO À compléter
+            ColNombres = new List<int>();
+           
         }
         /// <summary>
         /// Instancier la classe avec collection d'entiers passée en paramètre
@@ -77,6 +99,11 @@ namespace Models
         /// <exception cref="ArgumentNullException"></exception>
         public Statistiques(List<int> pColNombres)
         {
+            if (pColNombres == null)
+            {
+                throw new ArgumentNullException();
+            }
+            ColNombres = pColNombres;
             // TODO À compléter
         }
         /// <summary>
@@ -87,7 +114,7 @@ namespace Models
         public void Ajouter(int pNombre)
         {
             // TODO À compléter
-
+            ColNombres.Add(pNombre);
         }
         /// <summary>
         /// Compter le nombre d'occurences d'un entier dans la collection
@@ -97,8 +124,16 @@ namespace Models
         public int NbOccurences(int pNombre)
         {
             // TODO À compléter
+            int compteur = 0;
+            foreach( int pair in ColNombres)
+            {
+                if (pair == pNombre)
+                {
+                    compteur++;
+                }
+            }
 
-            return 0;
+            return compteur;
         }
 
 

@@ -55,10 +55,10 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
-    <Compile Include="ChatTests - Copier.cs" />
     <Compile Include="ChatTests.cs" />
     <Compile Include="MontreTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StatistiquesTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
